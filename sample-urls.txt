@@ -1,0 +1,6 @@
+python.org
+pypi.org
+docs.python.org
+peps.python.org
+michaelaclandking.com
+known-digital.com
